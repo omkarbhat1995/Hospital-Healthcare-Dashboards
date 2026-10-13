@@ -7,6 +7,7 @@ This project provides a multi-faceted view of hospital performance across differ
 
 1. Hospital Summary (Operations & Revenue)
 The Hospital Summary view focuses on high-level facility metrics, staff resource management, and patient feedback.
+<img width="2079" height="1165" alt="image" src="https://github.com/user-attachments/assets/7e94aebc-32b9-43f5-9934-faa6cbb3a335" />
 
 - Key Performance Indicators (KPIs): Tracks 2.506K Total Patients, 1.679K In Patients, 827 Out Patients, and 262 Total Staff.
 - Financial & Resource Metrics: Monitors Average Treatment Cost (161.41) and Patient to Staff Ratio (0.10) alongside an Occupied Bed gauge showing 1751 current beds in use.   
@@ -16,6 +17,7 @@ The Hospital Summary view focuses on high-level facility metrics, staff resource
 
 2. Patient Summary (Clinical Outcomes & Demographics)
 The Patient Summary view shifts the focus toward clinical care outcomes, length of stay (LOS), and patient profiling.
+<img width="2088" height="1161" alt="image" src="https://github.com/user-attachments/assets/a17df41e-c9cd-48de-9947-ab377a3d2e00" />
 
 - Clinical KPIs: Tracks Total Discharges (209), Average Length of Stay (1.70 days), ICU admissions (82), and Mortality/Death (86) against Total Revenue (404.49K).
 - Department Status: Features a detailed stacked bar chart analyzing In Patients by Department and Status (categorized into Death, Discharge, ICU, Normal, and Readmit), with Physical Medicine and Rehabilitation showing significant activity.
